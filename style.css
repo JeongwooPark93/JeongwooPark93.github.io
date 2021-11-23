@@ -13,7 +13,7 @@ h3 {
 }
 
 p {
-  font-family: "Comic Sans MS", "Comic Sans";
+  font-family: "trirong", serif;
   font-size: 20px;
   width: 800px;
   margin: 0 auto;
@@ -27,6 +27,6 @@ img {
 }
 header
 h1 {
-  font-family: "Papyrus";
+  font-family: "sorfia", sans-serif;
   text-align: center;
 }
